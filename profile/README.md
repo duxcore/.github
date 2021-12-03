@@ -1,7 +1,7 @@
 <p align=center>
   <a href="https://duxcore.co/">
-    <img src="assets/duxcore-icon.png"></img><br>
-    <img src="assets/duxcore-text.png"></img>
+    <img src="https://raw.githubusercontent.com/duxcore/duxcore/dev/assets/duxcore-icon.png"></img><br>
+    <img src="https://raw.githubusercontent.com/duxcore/duxcore/dev/assets/duxcore-text.png"></img>
   </a>
   <br><br>
   <a href="https://discord.gg/dTGJ5Bchnq">
