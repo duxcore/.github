@@ -30,5 +30,5 @@ We couldn't do what we do without our awesome team of people who are dedicated t
 - [@goldyydev](https://github.com/goldyydev)
 - [@amitojsingh366](https://github.com/amitojsingh366)
 - [@ajmnz](https://github.com/ajmnz)
-- [@overlisted](https://github.com/overlisted)
+- [@overlisting](https://github.com/overlisting)
 - [@TheOtterlord](https://github.com/TheOtterlord)
